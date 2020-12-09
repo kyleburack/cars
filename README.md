@@ -1,16 +1,24 @@
 Identifying Information:
 
 Name: Kyle Burack
+
 Student ID: 2288845
+
 Email: burack@chapman.edu
+
 Class: 298-02
+
 Assignment: cars
+
 
 Files
 
 cars.sh
+
 cars-input
+
 my_old_cars
+
 
 # Application Purpose
 
